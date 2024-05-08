@@ -1,0 +1,19 @@
+name: aaakit
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-learn
+  - numba
+  - emcee
+  - mystic
+  - ipopt
+  - polars
+  - pandas
+  - rich
+  - black
+  - loguru
+  - jupyterlab

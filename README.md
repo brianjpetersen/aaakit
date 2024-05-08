@@ -1,2 +1,2 @@
 # aaakit
-Robust and Fast Rational Polynomial Fitting using AAA
+Robust and fast rational polynomial fitting using AAA.
