@@ -9,6 +9,7 @@ dependencies:
   - scikit-learn
   - numba
   - emcee
+  - mapie
   - mystic
   - ipopt
   - polars
@@ -17,3 +18,5 @@ dependencies:
   - black
   - loguru
   - jupyterlab
+  - matplotlib
+  - tqdm
